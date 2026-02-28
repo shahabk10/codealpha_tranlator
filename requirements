@@ -1,0 +1,2 @@
+pip install deep-translator streamlit
+pip install streamlit googletrans==3.1.0a0
