@@ -13,6 +13,8 @@ This project is part of my **AI Internship at @CodeAlpha**. It is a professional
 * Intern Metadata Sidebar**: Displays intern name, domain, and system status for a professional look.
 * Copy to Clipboard**: Integrated code-block feature for quick translation copying.
 
+Streamlit Link: https://translatorbyshahab.streamlit.app/
+
 🛠️ Tech Stack
 
 * Language**: Python 3.13
