@@ -19,15 +19,6 @@ This project is part of my **AI Internship at @CodeAlpha**. It is a professional
 * Framework**: Streamlit (Web UI)
 * API**: Deep-Translator (Google API Wrapper)
 
-🚀 How to Run Locally
-
-1. Clone the repository**:
-bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_Language_Translation_Tool.git
-cd CodeAlpha_Language_Translation_Tool
-
-
-
 
 2. Install dependencies**:
 ```bash
@@ -40,7 +31,7 @@ pip install streamlit deep-translator
 ```bash
 python -m streamlit run translator.py
 
-```
+``` link: https://translatorbyshahab.streamlit.app/
 
 
 
